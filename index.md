@@ -1,24 +1,13 @@
 ---
-layout: default
-title: Home
+title: Do IT Best
+layout: home
+description: Building bridges in IT since 2014. A foundation and community of IT professionals in Gdańsk, Poland.
+intro_image: "images/illustrations/pointing.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
+show_call_box: true
 ---
 
-# doITbest-ngo
+# Building bridges in IT since 2014.
 
-Empowering communities through technology and innovation.
-
-## Our Mission
-
-We believe in the power of technology to transform lives. doITbest-ngo works to bridge the digital divide and create lasting impact in communities around the world.
-
-## What We Do
-
-- **Digital Literacy** — Teaching essential tech skills to underserved communities
-- **Innovation Programs** — Supporting local solutions to global challenges
-- **Community Building** — Connecting people through technology
-
-## Get Involved
-
-Whether you're a developer, designer, or simply passionate about making a difference, there's a place for you.
-
-[Learn more about us](about) | [Contact us](mailto:hello@doitbest-ngo.org)
+Do IT Best is a foundation and community of IT professionals based in Gdańsk, Poland. We promote quality in IT through knowledge sharing, cross-role collaboration, and community building.

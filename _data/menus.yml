@@ -1,0 +1,27 @@
+main:
+  - name: "About"
+    url: "/about/"
+    weight: 2
+  - name: "3QA Community"
+    url: "/meetups/"
+    weight: 3
+  - name: "Improve IT"
+    url: "/improve-it/"
+    weight: 4
+  - name: "Partners"
+    url: "/partners/"
+    weight: 5
+  - name: "Contact"
+    url: "/contact/"
+    weight: 6
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "About"
+    url: "/about/"
+    weight: 2
+  - name: "Contact"
+    url: "/contact/"
+    weight: 3
