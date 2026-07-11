@@ -2,6 +2,7 @@ title: doITbest-ngo
 description: doITbest NGO website
 url: "https://doITbest-ngo.github.io"
 baseurl: ""
+repository: doITbest-ngo/doITbest-ngo.github.io
 
 theme: jekyll-theme-architect
 
