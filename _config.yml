@@ -3,6 +3,8 @@ description: doITbest NGO website
 url: "https://doITbest-ngo.github.io"
 baseurl: ""
 
+theme: jekyll-theme-architect
+
 markdown: kramdown
 plugins:
   - jekyll-feed
