@@ -36,6 +36,12 @@
   background: #0e3a56 !important;
 }
 
+/* Footer social icons — larger, white */
+.sub-footer .social img {
+  width: 32px;
+  height: 32px;
+}
+
 /* Links in content */
 a {
   color: #1a5276;
