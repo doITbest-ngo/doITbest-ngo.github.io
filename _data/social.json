@@ -1,0 +1,22 @@
+[
+  {
+    "name": "GitHub",
+    "link": "https://github.com/doITbest-ngo",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/trojqa",
+    "image": "images/social/facebook.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/company/3qa-community/",
+    "image": "images/social/linkedin.svg"
+  },
+  {
+    "name": "Email",
+    "link": "mailto:contact@doitbest-ngo.org",
+    "image": "images/social/email.svg"
+  }
+]
