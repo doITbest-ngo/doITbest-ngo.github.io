@@ -1,30 +1,45 @@
 /* Do IT Best — Blue Color Override */
-:root {
-  --bs-primary: #1a5276;
-  --bs-link-color: #1a5276;
-  --bs-link-hover-color: #0e3a56;
+
+/* Navigation links */
+.main-menu > ul > li > a {
+  color: #1a5276 !important;
+}
+.main-menu > ul > li > a:hover {
+  color: #0e3a56 !important;
 }
 
-a { color: #1a5276; }
-a:hover { color: #0e3a56; }
+/* Header */
+.header {
+  color: #1a5276 !important;
+}
 
-/* Hero / call section */
-.call-to-action { background-color: #1a5276; }
-.call-to-action h1,
-.call-to-action p,
-.call-to-action .btn { color: #fff; }
-.call-to-action .btn-primary { background-color: #0e3a56; border-color: #0e3a56; }
+/* Hero call section background */
+.call {
+  background-color: #f0f7fb !important;
+}
+
+/* Button */
+.button {
+  background: #1a5276 !important;
+}
+.button:hover {
+  background-color: #0e3a56 !important;
+}
 
 /* Footer */
-footer { background-color: #1a5276; }
-.sub-footer { background-color: #0e3a56; }
+.footer {
+  background: #1a5276 !important;
+}
 
-/* Buttons */
-.btn-primary { background-color: #1a5276; border-color: #1a5276; }
-.btn-primary:hover { background-color: #0e3a56; border-color: #0e3a56; }
+/* Sub-footer */
+.sub-footer {
+  background: #0e3a56 !important;
+}
 
-/* Strips / feature sections */
-.strip-primary { background-color: #f0f7fb; }
-
-/* Feature icons */
-.feature img { filter: hue-rotate(0deg); }
+/* Links in content */
+a {
+  color: #1a5276;
+}
+a:hover {
+  color: #0e3a56;
+}
