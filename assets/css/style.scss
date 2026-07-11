@@ -1,0 +1,14 @@
+---
+---
+
+// Color overrides — blue scheme
+$primary: #1a5276;
+$primary-dark: #0e3a56;
+$secondary: #5dade2;
+$white-offset: #f0f7fb;
+$link-color: $primary;
+$link-hover-color: lighten($primary, 10%);
+$footer-background-color: $primary;
+$sub-footer-background-color: darken($primary, 10%);
+
+@import "jekyll-serif";
