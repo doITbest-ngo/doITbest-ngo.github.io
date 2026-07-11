@@ -8,12 +8,9 @@ main:
   - name: "Improve IT"
     url: "/improve-it/"
     weight: 4
-  - name: "Partners"
-    url: "/partners/"
-    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 6
+    weight: 5
 
 footer:
   - name: "Home"
@@ -28,9 +25,6 @@ footer:
   - name: "Improve IT"
     url: "/improve-it/"
     weight: 4
-  - name: "Partners"
-    url: "/partners/"
-    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 6
+    weight: 5
