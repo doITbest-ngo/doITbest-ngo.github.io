@@ -1,51 +1,74 @@
-/* Do IT Best — Blue Color Override */
+/* Do IT Best — Modern Color System */
+
+:root {
+  --color-primary: #2563eb;
+  --color-secondary: #35bdc8;
+  --color-accent: #f59e0b;
+  --color-dark: #0f172a;
+  --color-body: #334155;
+  --color-bg: #f8fafc;
+  --color-muted: #e2e8f0;
+}
 
 /* Navigation links */
 .main-menu > ul > li > a {
-  color: #1a5276 !important;
+  color: var(--color-dark) !important;
+  font-weight: 500;
+  transition: color 0.2s ease;
 }
 .main-menu > ul > li > a:hover {
-  color: #0e3a56 !important;
+  color: var(--color-primary) !important;
 }
 
 /* Header */
 .header {
-  color: #1a5276 !important;
+  color: var(--color-dark) !important;
 }
 
-/* Hero call section background */
+/* Hero call section */
 .call {
-  background-color: #f0f7fb !important;
+  background: linear-gradient(135deg, #eff6ff, #f0fdfa) !important;
 }
 
-/* Feature cards section — remove pink tint */
+/* Feature cards section */
 .strip-grey,
 .strip-grey.strip {
-  background-color: #ffffff !important;
+  background-color: var(--color-bg) !important;
 }
 
-/* Button */
+/* Buttons */
 .button {
-  background: #1a5276 !important;
+  background: var(--color-primary) !important;
+  border-radius: 8px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  transition: all 0.2s ease;
 }
 .button:hover {
-  background-color: #0e3a56 !important;
+  background-color: #1d4ed8 !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
 }
 
 /* Footer */
 .footer {
-  background: #1a5276 !important;
+  background: var(--color-dark) !important;
 }
 
 /* Sub-footer */
 .sub-footer {
-  background: #0e3a56 !important;
+  background: #0c1425 !important;
 }
 
 /* Footer social icons — larger, white */
 .sub-footer .social img {
   width: 32px;
   height: 32px;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+.sub-footer .social img:hover {
+  opacity: 1;
 }
 
 /* Hide phone and email in hero call section */
@@ -56,8 +79,45 @@
 
 /* Links in content */
 a {
-  color: #1a5276;
+  color: var(--color-primary);
+  transition: color 0.2s ease;
 }
 a:hover {
-  color: #0e3a56;
+  color: #1d4ed8;
+}
+
+/* Feature cards — modern styling */
+.feature {
+  padding: 2rem;
+  border-radius: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.feature:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+/* Service cards */
+.service-summary {
+  border-radius: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.service-summary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+/* Service title link */
+.service-title a {
+  color: var(--color-primary);
+}
+
+/* Page headings */
+h1, h2, h3 {
+  color: var(--color-dark);
+}
+
+/* Page title accent */
+.service-title {
+  color: var(--color-primary) !important;
 }
