@@ -1,0 +1,16 @@
+# Dependencies
+vendor/
+node_modules/
+
+# Build
+Gemfile.lock
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dev artifacts
+screenshots/
+docs/
+*.log
+*.tmp
+.DS_Store
