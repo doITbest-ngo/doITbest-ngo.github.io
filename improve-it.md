@@ -32,12 +32,6 @@ Improve IT is a conference that connects developers, testers, analysts, managers
 
 Register at [improve-it.org](https://improve-it.org)
 
-## Partners
-
-- Hapag-Lloyd Knowledge Center Gdańsk
-- Agile 3M
-- Stowarzyszenie Jakości Systemów Informatycznych (SJSI)
-
 ## Organized By
 
 Do IT Best Foundation — the team behind 3QA community, bringing 10+ years of experience in building IT communities.
