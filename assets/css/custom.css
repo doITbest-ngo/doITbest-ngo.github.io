@@ -1,5 +1,9 @@
 /* Do IT Best — Modern Color System */
 
+body {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
 :root {
   --color-primary: #2563eb;
   --color-secondary: #35bdc8;
