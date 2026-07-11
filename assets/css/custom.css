@@ -36,11 +36,6 @@
   background: #0e3a56 !important;
 }
 
-/* Footer icons — white */
-.sub-footer .social img {
-  filter: brightness(0) invert(1) !important;
-}
-
 /* Links in content */
 a {
   color: #1a5276;
