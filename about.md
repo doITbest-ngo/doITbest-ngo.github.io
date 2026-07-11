@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-description: About Do IT Best Foundation — our story, mission, values, and initiatives including 3QA Community, Improve IT conference, and QA Summit for IT professionals in Trójmiasto.
+description: About Do IT Best Foundation — our story, mission, values, and initiatives including 3QA Community and Improve IT conference for IT professionals in Trójmiasto.
 ---
 
 ## Our Story
@@ -33,8 +33,5 @@ Since 2014, 3QA has been the Tri-City's home for IT quality discussions. Monthly
 
 ### Improve IT
 Our flagship annual conference uses Open Space Technology — participants create the agenda, choose topics, and lead discussions. No passive audiences, only active collaboration.
-
-### QA Summit
-A free online conference bringing together Poland's top testing experts for talks, workshops, and networking.
 
 

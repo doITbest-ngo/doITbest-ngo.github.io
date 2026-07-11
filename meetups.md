@@ -28,7 +28,6 @@ description: 3QA Community — free monthly meetups for IT quality enthusiasts i
 
 - **3QA #69** — Testkube on Kubernetes (Feb 2025)
 - **3QA #66** — AI hardware trends + GitHub Actions testing (May 2024)
-- **QA Summit 2023** — Free online testing conference
 
 ## Propose a Talk
 

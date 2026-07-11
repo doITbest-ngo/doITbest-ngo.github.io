@@ -1,7 +1,7 @@
 ---
 title: Services
 layout: page
-description: Community programs and events by Do IT Best Foundation — 3QA monthly meetups, Improve IT conference, and QA Summit for IT professionals in Gdańsk, Poland.
+description: Community programs and events by Do IT Best Foundation — 3QA monthly meetups and Improve IT conference for IT professionals in Gdańsk, Poland.
 ---
 
 Do IT Best Foundation runs programs that bring IT professionals together to share knowledge and improve quality.
@@ -24,10 +24,6 @@ Annual Open Space Technology conference. Participants create the agenda, choose 
 - **Website**: [improve-it.org](https://improve-it.org)
 
 [Learn more](/improve-it/)
-
-## QA Summit
-
-Free online conference bringing together Poland's top testing experts for talks, workshops, and networking.
 
 ---
 
