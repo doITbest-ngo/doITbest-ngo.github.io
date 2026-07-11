@@ -48,6 +48,12 @@
   height: 32px;
 }
 
+/* Hide phone and email in hero call section */
+.call-phone,
+.call-email {
+  display: none !important;
+}
+
 /* Links in content */
 a {
   color: #1a5276;
