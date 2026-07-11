@@ -69,6 +69,9 @@ body {
 .footer {
   background: var(--color-dark) !important;
 }
+.footer-title {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
 
 /* Sub-footer */
 .sub-footer {
