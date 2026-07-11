@@ -1,0 +1,15 @@
+title: doITbest-ngo
+description: doITbest NGO website
+url: "https://doITbest-ngo.github.io"
+baseurl: ""
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
