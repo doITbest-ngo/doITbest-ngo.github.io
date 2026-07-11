@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: page
-description: Get in touch with Do IT Best Foundation
+description: Contact Do IT Best Foundation — email, social media, and event information for our IT community in Gdańsk, Poland.
 ---
 
 ## Get in Touch

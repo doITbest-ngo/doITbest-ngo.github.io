@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-description: About Do IT Best Foundation
+description: About Do IT Best Foundation — our story, mission, values, and initiatives including 3QA Community, Improve IT conference, and QA Summit for IT professionals in Trójmiasto.
 ---
 
 ## Our Story

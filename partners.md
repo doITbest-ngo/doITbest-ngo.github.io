@@ -1,7 +1,7 @@
 ---
 title: Partners
 layout: page
-description: Organizations we collaborate with
+description: Partners of Do IT Best Foundation — SJSI, Agile 3M, and Hapag-Lloyd Knowledge Center Gdańsk. Organizations collaborating to improve IT quality in Poland.
 ---
 
 We collaborate with organizations that share our commitment to quality in IT.
