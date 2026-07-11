@@ -1,30 +1,30 @@
 ---
-title: Services
+title: Usługi
 layout: page
-description: Community programs and events by Do IT Best Foundation — 3QA meetups and Improve IT conference for IT professionals in Gdańsk, Poland.
+description: Programy i wydarzenia społecznościowe fundacji Do IT Best — spotkania 3QA i konferencja Improve IT dla profesjonalistów IT w Gdańsku.
 ---
 
-Do IT Best Foundation runs programs that bring IT professionals together to share knowledge and improve quality.
+Fundacja Do IT Best prowadzi programy, które integrują profesjonalistów IT w celu dzielenia się wiedzą i poprawy jakości.
 
 ## 3QA
 
-Meetups and workshops since 2014 for IT quality enthusiasts in Gdańsk. Free, open to all roles — developers, testers, analysts, managers.
+Spotkania i warsztaty od 2014 roku dla pasjonatów jakości IT w Gdańsku. Bezpłatne, otwarte dla wszystkich ról — deweloperów, testerów, analityków, managerów.
 
-- **When**: Monthly, weekday evenings (18:00–20:00)
-- **Where**: O4 Olivia Business Centre or GPNT, Gdańsk
-- **Topics**: Testing, automation, AI, DevOps, agile, career growth
+- **Kiedy**: Co miesiąc, wieczorami w dni robocze (18:00–20:00)
+- **Gdzie**: O4 Olivia Business Centre lub GPNT, Gdańsk
+- **Tematy**: Testowanie, automatyzacja, AI, DevOps, agile, rozwój kariery
 
-[Learn more](/meetups/)
+[Dowiedz się więcej](/meetups/)
 
 ## Improve IT
 
-Annual Open Space Technology conference. Participants create the agenda, choose topics, and lead discussions. No passive audiences.
+Roczna konferencja Open Space Technology. Uczestnicy tworzą program, wybierają tematy i prowadzą dyskusje. Żadnych biernych widzów.
 
-- **Next edition**: 3 October 2026, Gdańsk
-- **Website**: [improve-it.org](https://improve-it.org)
+- **Następna edycja**: 3 października 2026, Gdańsk
+- **Strona**: [improve-it.org](https://improve-it.org)
 
-[Learn more](/improve-it/)
+[Dowiedz się więcej](/improve-it/)
 
 ---
 
-Interested in collaborating? [Get in touch](/contact/)
+Chcesz współpracować? [Skontaktuj się](/contact/)

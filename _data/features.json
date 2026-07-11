@@ -1,7 +1,7 @@
 [
   {
-    "title": "Community",
-    "description": "Meetups and workshops bringing together IT professionals to discuss quality, testing, and software delivery.",
+    "title": "Społeczność",
+    "description": "Spotkania i warsztaty integrujące profesjonalistów IT dyskutujących o jakości, testowaniu i dostarczaniu oprogramowania.",
     "image": {
       "url": "images/features/noun_community_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Knowledge Sharing",
-    "description": "Facilitating exchange of ideas, practices, and experiences across the IT industry.",
+    "title": "Dzielenie się wiedzą",
+    "description": "Ułatwianie wymiany pomysłów, praktyk i doświadczeń w branży IT.",
     "image": {
       "url": "images/features/noun_knowledge_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Collaboration",
-    "description": "Breaking silos between developers, testers, analysts, and managers.",
+    "title": "Współpraca",
+    "description": "Burzenie murów między deweloperami, testerami, analitykami i managerami.",
     "image": {
       "url": "images/features/noun_collaboration_1885342.svg",
       "width": 80,

@@ -1,7 +1,7 @@
 baseurl: ""
 permalink: pretty
 title: 'Do IT Best'
-description: 'Building bridges in IT since 2014. A foundation and community of IT professionals in Gdańsk, Poland.'
+description: 'Mosty w IT od 2014 roku. Fundacja i społeczność profesjonalistów IT w Gdańsku.'
 url: "https://doITbest-ngo.github.io"
 repository: doITbest-ngo/doITbest-ngo.github.io
 remote_theme: zerostaticthemes/jekyll-serif-theme

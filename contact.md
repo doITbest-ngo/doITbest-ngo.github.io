@@ -1,26 +1,25 @@
 ---
-title: Contact
+title: Kontakt
 layout: page
-description: Contact Do IT Best Foundation — email, social media, and event information for our IT community in Gdańsk, Poland.
+description: Kontakt z fundacją Do IT Best — e-mail, media społecznościowe i informacje o wydarzeniach dla naszej społeczności IT w Gdańsku.
 ---
 
-## Get in Touch
+## Skontaktuj się
 
-Have questions, want to collaborate, or interested in speaking at one of our events? We'd love to hear from you.
+Masz pytania, chcesz współpracować lub interesuje Cię wystąpienie na jednym z naszych wydarzeń? Chętnie usłyszymy od Ciebie.
 
-## Email
+## E-mail
 
 [contact@doitbest-ngo.org](mailto:contact@doitbest-ngo.org)
 
-## Social
+## Społeczności
 
 - [Facebook](https://www.facebook.com/trojqa)
 - [LinkedIn](https://www.linkedin.com/company/3qa-community/)
 - [GitHub](https://github.com/doITbest-ngo)
 
-## Events
+## Wydarzenia
 
-- [3QA Meetups](https://3qa.pl) — Monthly in Gdańsk
-- [Improve IT](https://improve-it.org) — Annual conference
-
+- [Spotkania 3QA](https://3qa.pl) — Co miesiąc w Gdańsku
+- [Improve IT](https://improve-it.org) — Coroczna konferencja
 

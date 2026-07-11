@@ -1,37 +1,37 @@
 ---
 title: Improve IT
 layout: page
-description: Improve IT — annual Open Space Technology conference in Gdańsk breaking silos between developers, testers, analysts, and managers.
+description: Improve IT — coroczna konferencja Open Space Technology w Gdańsku, burząca mury między deweloperami, testerami, analitykami i managerami.
 ---
 
-## Break the Silos!
+## Zburz mury!
 
-Improve IT is a conference that connects developers, testers, analysts, managers, and anyone who wants to look at projects beyond their own perspective.
+Improve IT to konferencja, która łączy deweloperów, testerów, analityków, managerów i wszystkich, którzy chcą patrzeć na projekty z perspektywy innej niż własna.
 
-**No passive audiences.** In Open Space Technology, participants create the agenda, choose topics, and lead discussions. You decide what we talk about.
+**Żadnych biernych widzów.** W Open Space Technology uczestnicy tworzą program, wybierają tematy i prowadzą dyskusje. Ty decydujesz, o czym rozmawiamy.
 
-## Why Attend?
+## Dlaczego warto przyjść?
 
-- **Break silos** — See the same challenges through different roles
-- **Get energized** — Open atmosphere encourages sharing and collaboration
-- **Get inspired** — Leave with new ideas and contacts
+- **Zburz mury** — Zobacz te same wyzwania z perspektywy różnych ról
+- **Naładuj się energią** — Otwarta atmosfera sprzyja dzieleniu się i współpracy
+- **Inspiruj się** — Wyjdź z nowymi pomysłami i kontaktami
 
-## Editions
+## Edycje
 
-| Year | Format | Theme |
+| Rok | Format | Temat |
 |---|---|---|
-| 2021 | Conference | Software performance |
-| 2023 | Open Space | Breaking silos |
-| 2024 | Open Space | Break the silos! vol.2 |
-| 2025 | Open Space | TBD |
-| 2026 | Open Space | 3 October, Gdańsk |
+| 2021 | Konferencja | Wydajność oprogramowania |
+| 2023 | Open Space | Burzenie murów |
+| 2024 | Open Space | Zburz mury! vol.2 |
+| 2025 | Open Space | Do ogłoszenia |
+| 2026 | Open Space | 3 października, Gdańsk |
 
-## Next Event
+## Następne wydarzenie
 
-**3 October 2026** — Gdańsk
+**3 października 2026** — Gdańsk
 
-Register at [improve-it.org](https://improve-it.org)
+Zarejestruj się na [improve-it.org](https://improve-it.org)
 
-## Organized By
+## Organizator
 
-Do IT Best Foundation — the team behind 3QA community, bringing 10+ years of experience in building IT communities.
+Fundacja Do IT Best — zespół stojący za społecznością 3QA, z ponad 10-letnim doświadczeniem w budowaniu społeczności IT.

@@ -1,43 +1,43 @@
 ---
 title: 3QA
 layout: page
-description: 3QA — free monthly meetups and workshops for IT quality enthusiasts in Gdańsk. Topics include testing, automation, AI, DevOps, and agile practices.
+description: 3QA — bezpłatne comiesięczne spotkania i warsztaty dla pasjonatów jakości IT w Gdańsku. Tematy: testowanie, automatyzacja, AI, DevOps i metodyki zwinne.
 ---
 
-## Join Us
+## Dołącz do nas
 
-3QA is the Tri-City's quality-focused IT community. Since 2014, we've been hosting monthly meetups for IT professionals passionate about quality.
+3QA to trójmiejska społeczność IT skupiona na jakości. Od 2014 roku organizujemy comiesięczne spotkania dla profesjonalistów IT pasjonujących się jakością.
 
 ## Format
 
-- **When**: Monthly, weekday evenings (18:00–20:00)
-- **Where**: O4 Olivia Business Centre or GPNT, Gdańsk
-- **Cost**: Free
-- **Language**: Polish (English welcome)
+- **Kiedy**: Co miesiąc, wieczorami w dni robocze (18:00–20:00)
+- **Gdzie**: O4 Olivia Business Centre lub GPNT, Gdańsk
+- **Koszt**: Bezpłatnie
+- **Język**: Polski (angielski mile widziany)
 
-## Topics We Cover
+## Tematy
 
-- Software testing (manual, automation, exploratory)
-- QA processes and methodologies
-- AI in testing and development
-- DevOps and CI/CD
-- Agile practices
-- Career growth in IT
+- Testowanie oprogramowania (manualne, automatyzacja, eksploracyjne)
+- Procesy i metodyki QA
+- AI w testowaniu i rozwoju
+- DevOps i CI/CD
+- Metodyki zwinne
+- Rozwój kariery w IT
 
-## Past Highlights
+## Poprzednie spotkania
 
-- **3QA #69** — Testkube on Kubernetes (Feb 2025)
-- **3QA #66** — AI hardware trends + GitHub Actions testing (May 2024)
+- **3QA #69** — Testkube na Kubernetes (luty 2025)
+- **3QA #66** — Trendy sprzętowe AI + testowanie GitHub Actions (maj 2024)
 
-## Propose a Talk
+## Zaproś prelegenta
 
-We're always looking for speakers! Whether you're a first-time presenter or a seasoned conference veteran, we'd love to hear your story.
+Szukamy prelegentów! Niezależnie od tego, czy jesteś pierwszym prelegentem, czy doświadczonym weteranem konferencji, chętnie wysłuchamy Twojej historii.
 
-[Submit a proposal](https://3qa.pl/zglos-swoje-wystapienie/)
+[Złóż propozycję](https://3qa.pl/zglos-swoje-wystapienie/)
 
-## Links
+## Linki
 
-- [3qa.pl](https://3qa.pl) — Main website
+- [3qa.pl](https://3qa.pl) — Główna strona
 - [Facebook](https://www.facebook.com/trojqa)
 - [LinkedIn](https://www.linkedin.com/company/3qa-community/)
 - [YouTube](https://www.youtube.com/channel/UC4FQoVmre5TDpPuJmlT0zuQ)

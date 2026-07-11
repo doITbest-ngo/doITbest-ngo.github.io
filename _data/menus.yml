@@ -1,5 +1,5 @@
 main:
-  - name: "About"
+  - name: "O nas"
     url: "/about/"
     weight: 2
   - name: "3QA"
@@ -8,15 +8,15 @@ main:
   - name: "Improve IT"
     url: "/improve-it/"
     weight: 4
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Strona główna"
     url: "/"
     weight: 1
-  - name: "About"
+  - name: "O nas"
     url: "/about/"
     weight: 2
   - name: "3QA"
@@ -25,6 +25,6 @@ footer:
   - name: "Improve IT"
     url: "/improve-it/"
     weight: 4
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 5
