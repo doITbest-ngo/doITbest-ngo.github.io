@@ -1,7 +1,7 @@
 ---
 title: Improve IT
 layout: page
-description: Improve IT — annual Open Space Technology conference in Gdańsk breaking silos between developers, testers, analysts, and managers. Next edition: October 2026.
+description: Improve IT — annual Open Space Technology conference in Gdańsk breaking silos between developers, testers, analysts, and managers.
 ---
 
 ## Break the Silos!
