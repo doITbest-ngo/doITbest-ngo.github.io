@@ -37,7 +37,8 @@
 }
 
 /* Footer icons — white */
-.footer img {
+.footer img,
+.sub-footer img {
   filter: brightness(0) invert(1);
 }
 
