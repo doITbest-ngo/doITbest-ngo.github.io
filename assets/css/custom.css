@@ -19,8 +19,8 @@
 }
 
 /* Feature cards section — remove pink tint */
-.strip,
-.strip-grey {
+.strip-grey,
+.strip-grey.strip {
   background-color: #ffffff !important;
 }
 
