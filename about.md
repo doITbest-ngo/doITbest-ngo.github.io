@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-description: About Do IT Best Foundation — our story, mission, values, and initiatives including 3QA Community and Improve IT conference for IT professionals in Trójmiasto.
+description: About Do IT Best Foundation — our story, mission, values, and initiatives including 3QA and Improve IT conference for IT professionals in Trójmiasto.
 ---
 
 ## Our Story
@@ -28,7 +28,7 @@ We promote quality in IT through:
 
 ## Our Initiatives
 
-### 3QA Community
+### 3QA
 Since 2014, 3QA has been the Tri-City's home for IT quality discussions. Monthly meetups cover testing, automation, AI, DevOps, and everything that makes software better.
 
 ### Improve IT

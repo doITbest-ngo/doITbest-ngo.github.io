@@ -1,14 +1,14 @@
 ---
 title: Services
 layout: page
-description: Community programs and events by Do IT Best Foundation — 3QA monthly meetups and Improve IT conference for IT professionals in Gdańsk, Poland.
+description: Community programs and events by Do IT Best Foundation — 3QA meetups and Improve IT conference for IT professionals in Gdańsk, Poland.
 ---
 
 Do IT Best Foundation runs programs that bring IT professionals together to share knowledge and improve quality.
 
-## 3QA Community
+## 3QA
 
-Monthly meetups since 2014 for IT quality enthusiasts in Gdańsk. Free, open to all roles — developers, testers, analysts, managers.
+Meetups and workshops since 2014 for IT quality enthusiasts in Gdańsk. Free, open to all roles — developers, testers, analysts, managers.
 
 - **When**: Monthly, weekday evenings (18:00–20:00)
 - **Where**: O4 Olivia Business Centre or GPNT, Gdańsk

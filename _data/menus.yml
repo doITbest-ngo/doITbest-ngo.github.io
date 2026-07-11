@@ -2,7 +2,7 @@ main:
   - name: "About"
     url: "/about/"
     weight: 2
-  - name: "3QA Community"
+  - name: "3QA"
     url: "/meetups/"
     weight: 3
   - name: "Improve IT"
@@ -19,7 +19,7 @@ footer:
   - name: "About"
     url: "/about/"
     weight: 2
-  - name: "3QA Community"
+  - name: "3QA"
     url: "/meetups/"
     weight: 3
   - name: "Improve IT"

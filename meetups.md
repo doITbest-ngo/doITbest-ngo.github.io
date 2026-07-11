@@ -1,7 +1,7 @@
 ---
-title: 3QA Community
+title: 3QA
 layout: page
-description: 3QA Community — free monthly meetups for IT quality enthusiasts in Gdańsk. Topics include testing, automation, AI, DevOps, and agile practices.
+description: 3QA — free monthly meetups and workshops for IT quality enthusiasts in Gdańsk. Topics include testing, automation, AI, DevOps, and agile practices.
 ---
 
 ## Join Us
