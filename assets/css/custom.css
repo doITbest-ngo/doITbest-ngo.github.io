@@ -1,0 +1,30 @@
+/* Do IT Best — Blue Color Override */
+:root {
+  --bs-primary: #1a5276;
+  --bs-link-color: #1a5276;
+  --bs-link-hover-color: #0e3a56;
+}
+
+a { color: #1a5276; }
+a:hover { color: #0e3a56; }
+
+/* Hero / call section */
+.call-to-action { background-color: #1a5276; }
+.call-to-action h1,
+.call-to-action p,
+.call-to-action .btn { color: #fff; }
+.call-to-action .btn-primary { background-color: #0e3a56; border-color: #0e3a56; }
+
+/* Footer */
+footer { background-color: #1a5276; }
+.sub-footer { background-color: #0e3a56; }
+
+/* Buttons */
+.btn-primary { background-color: #1a5276; border-color: #1a5276; }
+.btn-primary:hover { background-color: #0e3a56; border-color: #0e3a56; }
+
+/* Strips / feature sections */
+.strip-primary { background-color: #f0f7fb; }
+
+/* Feature icons */
+.feature img { filter: hue-rotate(0deg); }
