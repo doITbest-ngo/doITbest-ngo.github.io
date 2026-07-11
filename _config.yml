@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: ""
 permalink: pretty
 title: 'Do IT Best'
 description: 'Building bridges in IT since 2014. A foundation and community of IT professionals in Gdańsk, Poland.'
@@ -40,6 +40,7 @@ sass:
   style: compressed
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
