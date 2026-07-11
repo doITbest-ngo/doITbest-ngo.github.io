@@ -18,6 +18,12 @@
   background-color: #f0f7fb !important;
 }
 
+/* Feature cards section — remove pink tint */
+.strip,
+.strip-grey {
+  background-color: #ffffff !important;
+}
+
 /* Button */
 .button {
   background: #1a5276 !important;
