@@ -10,6 +10,18 @@ Założona w 2015 roku jako podmiot prawny (KRS 0000553331), fundacja Do IT Best
 
 To, co zaczęło się od nieformalnych spotkań w 2014 roku, stało się prężnym ekosystemem dzielenia się wiedzą, rozwoju zawodowego i budowania społeczności.
 
+## Działamy non-profit
+
+Fundacja Do IT Best realizuje cele statutowe w obszarze upowszechniania wiedzy technologicznej i rozwoju kompetencji zawodowych.
+
+Wierzymy, że dostęp do wiedzy i możliwość rozwoju nie powinny zależeć od zasobności portfela ani poziomu doświadczenia. Dlatego nasze inicjatywy edukacyjne i społecznościowe udostępniamy nieodpłatnie.
+
+Naszą działalność tworzymy wspólnie z zaangażowanymi członkami społeczności IT, ekspertami i wolontariuszami, którzy dzielą się swoją wiedzą, doświadczeniem i czasem.
+
+Organizujemy otwarte meetupy, warsztaty, konferencje, szkolenia oraz inicjatywy mentoringowe. Wszystkie te działania służą realizacji misji i celów statutowych fundacji, a nie osiąganiu prywatnych korzyści finansowych.
+
+**Wiedza jest wartością, którą najlepiej buduje się i rozwija wspólnie.**
+
 ## Misja
 
 Promujemy jakość w IT poprzez:
